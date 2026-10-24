@@ -1,62 +1,115 @@
-### Halo, Saya di sini! 👋
+<div align="center">
 
-<h4 align="center">Mahasiswa Ilmu Komputer 💻 | Calon Spesialis Cybersecurity 🛡️</h4>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · ahmdmk10</sub></p>
+<h1>MadSCode</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Hello, my name is Ahmad</p>
+<p><strong>● Building and sharing work in public</strong></p>
+
+<p><a href="https://github.com/ahmdmk10">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/304374654?u=2f7ff2dc1ed218838c0715ad9a6a3cacf1f062eb&amp;v=4" width="180" alt="MadSCode GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
+
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · HTML · Pascal</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>9 repositories · 1 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>27 contributions · 12 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Hello, my name is Ahmad</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>9</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>27</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>4</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_MU&color=blueviolet&style=flat-square" alt="profile views" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ahmdmk10&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F304374654%3Fu%3D2f7ff2dc1ed218838c0715ad9a6a3cacf1f062eb%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=ahmdmk10&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F304374654%3Fu%3D2f7ff2dc1ed218838c0715ad9a6a3cacf1f062eb%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="MadSCode GitHub proof metrics" />
+</picture>
 </p>
 
----
+<h2>Selected work</h2>
 
-### 🚀 Tentang Saya
-* 🎓 Saat ini sedang menempuh studi tahun pertama Ilmu Komputer.
-* 🛡️ Berencana mengambil spesialisasi **Cybersecurity** di semester mendatang.
-* 💻 Terbiasa menggunakan ekosistem macOS dan VS Code untuk ngoding.
-* 🛠️ Suka eksplorasi pemrograman dan hobi ngoprek bahasa seperti **C++, Python, Pascal, dan Swift**.
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ahmdmk10&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F304374654%3Fu%3D2f7ff2dc1ed218838c0715ad9a6a3cacf1f062eb%26v%3D4&repos=ahmdmk10%2FSpeechToText%2Cahmdmk10%2FUTS_DASPRO_PEMBAIK1xBoyOperations_KOMB%2Cahmdmk10%2F261401076_AhmadMumtazulKautsar_DP_4%2Cahmdmk10%2FPraktikum_B&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=ahmdmk10&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F304374654%3Fu%3D2f7ff2dc1ed218838c0715ad9a6a3cacf1f062eb%26v%3D4&repos=ahmdmk10%2FSpeechToText%2Cahmdmk10%2FUTS_DASPRO_PEMBAIK1xBoyOperations_KOMB%2Cahmdmk10%2F261401076_AhmadMumtazulKautsar_DP_4%2Cahmdmk10%2FPraktikum_B&v=recruiter-projects-1&mode=dark" width="100%" alt="MadSCode selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Ahmdmk10/SpeechToText">SpeechToText</a></h3>
+<p>Project ini dibuat atas dasar untuk membantu saya di dunia perkuliahan.</p>
+<p><sub>Python · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/Ahmdmk10/SpeechToText">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
----
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Ahmdmk10/UTS_DASPRO_PEMBAIK1xBoyOperations_KOMB">UTS_DASPRO_PEMBAIK1xBoyOperations_KOMB</a></h3><p>A selected public project.</p><p><sub>Pascal · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Ahmdmk10/261401076_AhmadMumtazulKautsar_DP_4">261401076_AhmadMumtazulKautsar_DP_4</a></h3><p>Tugas lab</p><p><sub>Pascal · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Ahmdmk10/Praktikum_B">Praktikum_B</a></h3><p>A selected public project.</p><p><sub>C++ · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-### 🔭 Sedang Fokus Apa?
-* 🌱 Memperdalam logika pemrograman terstruktur dan *Object-Oriented Programming* (OOP) pakai C++.
-* 💻 Menyelesaikan proyek-proyek mini kuliah berbasis Pascal dan Python.
-* 🛡️ Mempersiapkan diri menuju jalur spesialisasi *Cybersecurity* di semester mendatang.
-
----
-
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" alt="macOS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### 📈 Statistik GitHub & Aktivitas
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_MU&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_MU&layout=compact&theme=radical&hide_border=true" />
-</p>
+<h2>Technical toolkit</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME_GITHUB_MU&theme=radical&hide_border=true" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=ahmdmk10&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F304374654%3Fu%3D2f7ff2dc1ed218838c0715ad9a6a3cacf1f062eb%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=ahmdmk10&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F304374654%3Fu%3D2f7ff2dc1ed218838c0715ad9a6a3cacf1f062eb%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="MadSCode technology stack" />
+</picture>
 </p>
 
----
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>64% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>10% of public code</sub></td>
+<td width="20%" align="center"><strong>Pascal</strong><br /><sub>10% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>9% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>7% of public code</sub></td>
+</tr>
+</table>
 
-### ⚡ Fun Fact & Quotes
-> *"Kode boleh error, semangat jangan kendor, yang penting program jalan terus bagaikan kereta lintas Sumatera."* 🚂🔥
+<h2>Consistency signal</h2>
 
----
-
-### 📫 Hubungi Saya di Sini:
-<p align="left">
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN_MU" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:emailmu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ahmdmk10&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F304374654%3Fu%3D2f7ff2dc1ed218838c0715ad9a6a3cacf1f062eb%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=ahmdmk10&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F304374654%3Fu%3D2f7ff2dc1ed218838c0715ad9a6a3cacf1f062eb%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="MadSCode contribution activity" />
+</picture>
 </p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/ahmdmk10">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>MadSCode · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
